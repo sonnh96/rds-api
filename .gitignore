@@ -1,0 +1,16 @@
+# Build output
+/bin/
+/local-data-api
+
+# Test and coverage output
+coverage.out
+coverage.html
+*.test
+
+# Docs build
+/site/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
